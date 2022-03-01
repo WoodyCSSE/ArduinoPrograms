@@ -8,6 +8,10 @@
   https://www.arduino.cc/en/Tutorial/BuiltInExamples/DigitalReadSerial
 */
 
+//Programmer:Mr.Lange
+//Date:2.28.2022
+// Materials: 10K Ohm Resistor - Push Buttom - Bread Board - Wires
+
 // digital pin 2 has a pushbutton attached to it. Give it a name:
 int pushButton = 2;
 
