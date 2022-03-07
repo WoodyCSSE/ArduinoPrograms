@@ -8,7 +8,7 @@
   https://www.arduino.cc/en/Tutorial/BuiltInExamples/DigitalReadSerial
 */
 
-//Programmer:Mr.Lange
+//Programmer:Woody Tilbury
 //Date:2.28.2022
 // Materials: 10K Ohm Resistor - Push Buttom - Bread Board - Wires
 
